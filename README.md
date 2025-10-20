@@ -1,6 +1,6 @@
-# 🎥 Bad Apple en ASCII Art (Tkinter + OpenCV)
+# 🎥 Video to ASCII Art (Tkinter + OpenCV)
 
-Ce projet est une visualisation ASCII en temps réel de la célèbre vidéo **Bad Apple**, affichée dans une interface graphique Tkinter à partir d’un fichier vidéo local.  
+Ce projet est une visualisation ASCII en temps réel de vidéos, affichée dans une interface graphique Tkinter à partir d’un fichier vidéo local.  
 L’application convertit chaque frame du clip en caractères ASCII selon leur niveau de luminosité, créant un rendu artistique en noir et blanc directement dans une fenêtre Python.
 
 ---
