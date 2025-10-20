@@ -29,5 +29,5 @@ L’application convertit chaque frame du clip en caractères ASCII selon leur n
 
 1. Clone le projet :
    ```bash
-   git clone https://github.com/ton-utilisateur/bad-apple-ascii.git
-   cd bad-apple-ascii
+   git clone https://github.com/ton-utilisateur/videotoascii.git
+   cd videotoascii
